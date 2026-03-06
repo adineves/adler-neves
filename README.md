@@ -19,13 +19,13 @@ O site destaca:
 ## Estrutura do projeto
 portfolio-adlerneves/
 │
-├── assets/
-├── dist/
-├── src/
-├── index.html
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
+assets/
+dist/
+src/
+index.html
+package.json
+postcss.config.js
+tailwind.config.js
 
 ## Funcionalidades
 - layout responsivo
